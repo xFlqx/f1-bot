@@ -24,11 +24,11 @@ Depending on the configuration, some commands will respond with a DM to avoid cl
 
 Invoke a command in Discord by typing the prefix `!f1` (symbol can be changed in config) and one of the following subcommands:
 
-- `!f1 help [command]` - Display help text for the available commands
+- `!f1 help [command]` - Display help text for the available commands.
 
-- `!f1 status` - Information about the bot and connection status
+- `!f1 status` - Information about the bot and connection status.
 
-- `!f1 discord` - A link to the support discord.
+- `!f1 invite` - Buttons linking bot & discord invites.
 
 - `!f1 wdc [season]` - Display World Driver Championship standings.
 
