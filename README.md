@@ -28,7 +28,7 @@ Invoke a command in Discord by typing the prefix `!f1` (symbol can be changed in
 
 - `!f1 status` - Information about the bot and connection status
 
-- `!f1 github` - A link to this repository.
+- `!f1 discord` - A link to the support discord.
 
 - `!f1 wdc [season]` - Display World Driver Championship standings.
 
